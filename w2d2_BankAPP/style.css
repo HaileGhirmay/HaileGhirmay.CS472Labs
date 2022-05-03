@@ -1,0 +1,20 @@
+body{
+    margin:20px;
+    padding:20;
+    border: 2px;
+}
+
+#form{
+    border-style: inset;
+    margin-right: 700px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 227, 227);
+}
+h1{
+    color: rgb(235, 218, 206);
+    background-color: rgb(118, 33, 222);
+    border-style: inset;
+    margin-right: 700px;
+
+}
